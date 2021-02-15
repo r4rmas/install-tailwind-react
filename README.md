@@ -16,6 +16,7 @@ Example of use:
 1. npx create-react-app example
 2. cd example/
 3. **install-tailwindcss**
+
 Tailwindcss is set up. Everything is ready to code
 
 Note:
