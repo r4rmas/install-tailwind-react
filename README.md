@@ -1,5 +1,5 @@
 # Tailwindcss with Reactjs 
-A shell script for a faster set up of Tailwindss with Reactjs
+A shell script for a faster setup of Tailwindss with Reactjs
 
 Instructions:
 
