@@ -9,6 +9,6 @@ sed -i 's/react-scripts test/craco test/' package.json
 cp ~/.Scripts/install-tailwindcss/craco.config.js .
 npx tailwindcss init
 cp ~/.Scripts/install-tailwindcss/tailwind.config.js .
-echo '@tailwind base' >> src/index.css
-echo '@tailwind components' >> src/index.css
-echo '@tailwind utilities' >> src/index.css
+echo '@tailwind base;' >> src/index.css
+echo '@tailwind components;' >> src/index.css
+echo '@tailwind utilities;' >> src/index.css
