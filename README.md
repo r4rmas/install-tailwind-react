@@ -12,8 +12,8 @@ It's done :)
 
 **Example of use**  
 
-npx create-react-app example
-cd example/
-installtailwind-react
+1. npx create-react-app example
+2. cd example/
+3. installtailwind-react
 
 Tailwind is set up. Everything is ready to code
