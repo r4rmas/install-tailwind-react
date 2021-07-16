@@ -7,7 +7,7 @@ A shell script for a faster setup of TailwindCSS in a React app that has been in
 3. Give execution permission to the shell script
 > sudo chmod +x main.sh
 4. Add the next line into your ~/.bashrc file:
-> alias installtailwind='~/.Scripts/installtailwind-react/main.sh'
+> alias install-tailwind-react='~/.Scripts/install-tailwind-react/main.sh'
 
 It's done :)
 
@@ -15,6 +15,6 @@ It's done :)
 
 1. npx create-react-app example
 2. cd example/
-3. installtailwind
+3. install-tailwind-react
 
 Tailwind is set up. Everything is ready to code
