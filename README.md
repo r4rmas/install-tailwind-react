@@ -1,11 +1,11 @@
 # installtailwind-react
-A shell script for a faster setup of Tailwind in a React app
+A shell script for a faster setup of TailwindCSS in a React app that has been installed with create-react-app
 
 **Instructions**
 1. Create the following directory: ~/.Scripts
 2. Clone this repository inside
 3. Give execution permission to the shell script
-> sudo chmod +x installtailwind-react.sh
+> sudo chmod +x main.sh
 4. Add the next line into your ~/.bashrc file:
 > alias installtailwind='~/.Scripts/installtailwind-react/main.sh'
 
